@@ -1,0 +1,56 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch Gui02",
+            "request": "launch",
+            "mainClass": "Gui02",
+            "projectName": "Interfaces Graficas part1_48505e35"
+        },
+        {
+            "type": "java",
+            "name": "Launch Gui01",
+            "request": "launch",
+            "mainClass": "Gui01",
+            "projectName": "Interfaces Graficas part1_48505e35"
+        },
+        {
+            "type": "java",
+            "name": "Launch GridLayoutDemo",
+            "request": "launch",
+            "mainClass": "GridLayoutDemo",
+            "projectName": "Interfaces Graficas part1_48505e35"
+        },
+        {
+            "type": "java",
+            "name": "Launch FlowLayoutDemo",
+            "request": "launch",
+            "mainClass": "FlowLayoutDemo",
+            "projectName": "Interfaces Graficas part1_48505e35"
+        },
+        {
+            "type": "java",
+            "name": "Launch BorderLayoutDemo",
+            "request": "launch",
+            "mainClass": "BorderLayoutDemo",
+            "projectName": "Interfaces Graficas part1_48505e35"
+        },
+        {
+            "type": "java",
+            "name": "Launch Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Launch PanelDemo",
+            "request": "launch",
+            "mainClass": "PanelDemo",
+            "projectName": "Interfaces Graficas part1_48505e35"
+        }
+    ]
+}
